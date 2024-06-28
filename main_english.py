@@ -10,12 +10,12 @@ TOKEN = "any" #[token_here]
 bot = telebot.TeleBot(TOKEN)
 
 candidates = [
-    "محمدباقر قالیباف",
-    "سعید جلیلی",
-    "مسعود پزشکیان",
-    "امیرحسین قاضی‌زاده هاشمی",
-    "مصطفی پورمحمدی",
-    "علیرضا زاکانی"
+    "cand 1",
+    "cand 2",
+    "cand 3",
+    "cand 4",
+    "cand 5",
+    "cand 6"
 ]
 
 def load_data():
